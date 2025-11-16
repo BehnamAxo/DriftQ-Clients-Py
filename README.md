@@ -35,9 +35,6 @@ pip install -e .
 - Follows SemVer. Breaking changes bump **minor** while < v1.
 
 
-## Contributing
-Contributions are welcome! Please open an issue or pull request to discuss changes.
-
 ---
 
 ## License
